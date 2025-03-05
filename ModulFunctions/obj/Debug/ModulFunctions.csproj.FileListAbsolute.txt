@@ -1,0 +1,6 @@
+C:\Users\Dom\source\repos\UnitTests\ModulFunctions\bin\Debug\ModulFunctions.dll
+C:\Users\Dom\source\repos\UnitTests\ModulFunctions\bin\Debug\ModulFunctions.pdb
+C:\Users\Dom\source\repos\UnitTests\ModulFunctions\obj\Debug\ModulFunctions.csproj.AssemblyReference.cache
+C:\Users\Dom\source\repos\UnitTests\ModulFunctions\obj\Debug\ModulFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\UnitTests\ModulFunctions\obj\Debug\ModulFunctions.dll
+C:\Users\Dom\source\repos\UnitTests\ModulFunctions\obj\Debug\ModulFunctions.pdb
